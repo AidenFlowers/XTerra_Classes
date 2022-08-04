@@ -12,7 +12,9 @@ public class EnergyProjectile : MonoBehaviour
     {
         if(collision.gameObject.CompareTag("Enemy"))
         {
+            Debug.Log("OnCollisionEnter method");
             Instantiate(hitParticlesPrefab, transform.position, transform.rotation);
+            ScoreManager.Instance.AddToScore();
             Destroy(gameObject);
         }
     }

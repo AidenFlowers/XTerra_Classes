@@ -10,6 +10,7 @@ public class TriggerLoseCondition : MonoBehaviour
         if(other.gameObject.CompareTag("Enemy"))
         {
             Debug.Log("An enemy has reached your base! You lose.");
+            ScoreManager.Instance.currentScore = 0;
         }
     }
 

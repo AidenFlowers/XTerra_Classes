@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A59651C8-A5FA-1274-C85C-B6902F8C906F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c619be1-e393-4628-af51-1232d383ae64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollectableManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnergyProjectile.cs" Line="15" Column="50" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="30" Column="19" />
+      <File FileName="Assets/Scripts/FiringPad.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TriggerLoseCondition.cs" Line="13" Column="52" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CollectableManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_Foundations_All_Scenes" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
